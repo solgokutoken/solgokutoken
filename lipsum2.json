@@ -1,0 +1,25 @@
+{
+    "name": "Lorem Lorem Lorem",
+    "symbol": "LIP",
+    "description": "LIPSUM is a bullist meme token on Solana",
+    "uri": "https://solgoku.com/lipsum2.json",
+    "image": "https://solgoku.com/lipsum.png",
+    "attributes": [],
+    "properties": {
+        "files": [{
+                "uri": "https://solgoku.com/lipsum.png",
+                "type": "image/png"
+            }
+        ]
+    },
+	 "extensions": {
+        "website": "https://pichicoin.com",
+        "twitter": "https://x.com/pichicoin",
+        "telegram": "Telegram: https://t.me/pichi_portal"
+    },
+    "tags": [],
+    "creator": {
+        "name": "Solgoku",
+        "site": "https://solgoku.com/"
+    }
+}
